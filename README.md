@@ -25,7 +25,7 @@
 ###アプリケーション詳細設計書
 
 ## チャレンジ要素一覧
-<https://docs.google.com/spreadsheets/d/1E4Quehglf9PxM1XTE-ft2X5-hJ5dmoJhsI-UJlgzVmY/edit#gid=0>
+<https://docs.google.com/spreadsheets/d/1lW6UQAL9_4BBHfmx9qFglWuXn0uXGXPr6Jl6kWCVtcA/edit#gid=0>
 
 ## 開発環境
 - OS：Linux(CentOS)
